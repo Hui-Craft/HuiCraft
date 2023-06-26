@@ -1,5 +1,5 @@
 @echo off
 git pull
 cd ../../bin/
-minetest.exe --gameid huicraft --console --go --worldname test
+minetest.exe --gameid huicraft --console
 cd ../games/huicraft
