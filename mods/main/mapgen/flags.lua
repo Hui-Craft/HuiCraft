@@ -1,0 +1,2 @@
+minetest.set_mapgen_setting("mg_flags", "caves, nodungeons, light, decorations, biomes", true)
+minetest.set_mapgen_setting("mgvalleys_spflags", "altitude_chill, humid_rivers, vary_river_depth, altitude_dry", true)

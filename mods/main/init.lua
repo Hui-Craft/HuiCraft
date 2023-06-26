@@ -11,4 +11,4 @@ hui._internal.log("main", "Logging works!")
 
 --Load files
 dofile(minetest.get_modpath("main") .. "/loader.lua")
-hui._internal.loadfile("main", "test")
+hui._internal.loadfile("main", "mapgen/init")
