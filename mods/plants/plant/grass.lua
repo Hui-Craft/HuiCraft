@@ -12,4 +12,6 @@ minetest.register_node("plants:grass", {
         type = "fixed",
         fixed = {-6 / 16, -0.5, -6 / 16, 6 / 16, 0.5, 6 / 16},
     },
+    waving = 1,
+    walkable = false
 })
