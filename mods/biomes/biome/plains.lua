@@ -16,8 +16,8 @@ minetest.register_biome({
 minetest.register_decoration({
     deco_type = "simple",
     place_on = {"blocks:dirt"},
-    sidelen = 16,
-    fill_ratio = 0.1,
+    sidelen = 32,
+    fill_ratio = 0.01,
     biomes = {"plains"},
     y_max = 200,
     y_min = 1,
