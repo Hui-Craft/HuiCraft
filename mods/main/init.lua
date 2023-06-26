@@ -1,5 +1,3 @@
-print("Hui - Main - Loading...")
-
 --Expose api
 hui = {}
 
@@ -7,8 +5,10 @@ hui = {}
 hui._internal = {}
 hui.api = {}
 
---Load files
-dofile(minetest.get_modpath("main") .. "/log.lua")
-
 --Logging
 hui._internal.log("main", "Logging works!")
+dofile(minetest.get_modpath("main") .. "/log.lua")
+
+--Load files
+dofile(minetest.get_modpath("main") .. "/loader.lua")
+hui._internal.loadfile("main", "")
