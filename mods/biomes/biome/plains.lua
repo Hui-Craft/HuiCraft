@@ -4,9 +4,9 @@ minetest.register_biome({
     depth_top = 1,
     node_filler = "default:stone",
     node_stone = "default:stone",
-    depth_filler = 3,
+    depth_filler = 6,
     y_max = 1000,
     y_min = -3,
-    heat_point = 0,
+    heat_point = 20,
     humidity_point = 10,
 })

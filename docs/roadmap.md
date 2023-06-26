@@ -1,8 +1,8 @@
 # Roadmap
 ## Alpha versions
-- Biomes
-    - Plains
-    - Forest
+- [ ] Biomes
+    - [ ] Plains
+    - [ ] Forest
         - Oak forest
         - Birch forest
         - Dark oak forest
