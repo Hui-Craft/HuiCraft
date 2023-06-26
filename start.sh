@@ -1,2 +1,4 @@
 git pull
-../../bin/minetest --gameid huicraft
+cd ../../bin/
+./minetest --gameid huicraft
+cd ../games/huicraft
