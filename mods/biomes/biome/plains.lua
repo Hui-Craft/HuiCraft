@@ -21,5 +21,5 @@ minetest.register_decoration({
     biomes = {"plains"},
     y_max = 200,
     y_min = 1,
-    decoration = "plans:grass",
+    decoration = "plants:grass",
 })
