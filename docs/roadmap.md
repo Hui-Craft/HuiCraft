@@ -1,7 +1,7 @@
 # Roadmap
 ## Alpha versions
 - [ ] Biomes
-    - [ ] Plains
+    - [x] Plains
     - [ ] Forest
         - [ ] Oak forest
         - [ ] Birch forest
@@ -10,7 +10,7 @@
     - [ ] Desert
 - [ ] Decoration
     - [ ] Trees
-    - [ ] Grass
+    - [x] Grass
     - [ ] Flowers
 - [ ] Ores
     - [ ] Coal ore
