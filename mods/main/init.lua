@@ -20,9 +20,9 @@ minetest.override_item("", {
 		full_punch_interval = 1,
 		max_drop_level = 50,
 		groupcaps = {
-			stone = {times={[2]=3.00, [3]=0.70}, uses=50, maxlevel=1000},
-			crumbly = {times={[2]=1.00, [3]=0.70}, uses=50, maxlevel=1000},
-			snappy = {times={[3]=0.40}, uses=50, maxlevel=1000},
+			stone = {times={[1]=10.00}, uses=50, maxlevel=1000},
+			crumbly = {times={[1]=1.00}, uses=50, maxlevel=1000},
+			snappy = {times={[1]=0.50}, uses=50, maxlevel=1000},
 			oddly_breakable_by_hand = {times={[1]=1.00,[2]=2.00,[3]=3.00}, uses=50, maxlevel=1000},
 			choppy = {times={[1]=5.00}, uses=50, maxlevel=1000}
 		},
