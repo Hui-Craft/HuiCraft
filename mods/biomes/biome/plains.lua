@@ -37,3 +37,15 @@ minetest.register_decoration({
     flags = "place_center_x, place_center_z",
     rotation = "random",
 })
+
+-- Decoration test
+minetest.register_decoration({
+    deco_type = "simple",
+    place_on = {"blocks:oak_slab"},
+    sidelen = 32,
+    fill_ratio = 0.01,
+    biomes = {"plains"},
+    y_max = 200,
+    y_min = -10,
+    decoration = "plants:oak_slab",
+})
