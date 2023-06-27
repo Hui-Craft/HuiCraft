@@ -4,5 +4,6 @@ minetest.register_node("blocks:oak_leaf", {
     description = "Oak Leaf",
     tiles = {"blocks_oak_leaf.png"},
     is_ground_content = true,
-    groups = {crumbly=1, cracky=0}
+    drawtype = "glasslike",
+    groups = {oddly_breakable_by_hand=1}
 })
