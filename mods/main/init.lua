@@ -21,7 +21,7 @@ minetest.override_item("", {
 		max_drop_level = 50,
 		groupcaps = {
 			crumbly = {times={[1]=1.00}, uses=1, maxlevel=10},
-			cracky = {times={[1]=10.00}, uses=1, maxlevel=10},
+			cracky = {times={[1]=10.00,[2]=50.00,[3]=100}, uses=1, maxlevel=10},
 			snappy = {times={[1]=0.50}, uses=1, maxlevel=10},
 			oddly_breakable_by_hand = {times={[1]=1.00}, uses=1, maxlevel=10},
 			choppy = {times={[1]=5.00}, uses=1, maxlevel=10}
