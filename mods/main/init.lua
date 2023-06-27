@@ -17,11 +17,11 @@ hui._internal.loadfile("main", "mapgen/init")
 minetest.override_item("", {
 	wield_scale = {x=1,y=1,z=2.5},
 	tool_capabilities = {
-		full_punch_interval = 5,
-		max_drop_level = 0,
+		full_punch_interval = 1,
+		max_drop_level = 50,
 		groupcaps = {
 			stone = {times={[2]=3.00, [3]=0.70}, uses=1, maxlevel=3},
-			crumbly = {times={[2]=3.00, [3]=0.70}, uses=1, maxlevel=1},
+			crumbly = {times={[2]=1.00, [3]=0.70}, uses=50},
 			snappy = {times={[3]=0.40}, uses=1, maxlevel=1},
 			oddly_breakable_by_hand = {times={[1]=3.50,[2]=2.00,[3]=0.70}, uses=5}
 		},
