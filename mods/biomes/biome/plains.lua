@@ -23,3 +23,17 @@ minetest.register_decoration({
     y_min = 1,
     decoration = "plants:grass",
 })
+
+-- Trees
+minetest.register_decoration({
+    deco_type = "schematic",
+    place_on = {"blocks:grass"},
+    sidelen = 16,
+    fill_ratio = 0.0001,
+    biomes = {"plains"},
+    y_max = 200,
+    y_min = 1,
+    schematic = minetest.get_modpath("biomes") .. "/schems/tree.mts",
+    flags = "place_center_x, place_center_z",
+    rotation = "random",
+})
