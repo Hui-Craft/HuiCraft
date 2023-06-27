@@ -17,7 +17,7 @@ hui._internal.loadfile("main", "mapgen/init")
 minetest.override_item("", {
 	wield_scale = {x=1,y=1,z=2.5},
 	tool_capabilities = {
-		full_punch_interval = 1,
+		full_punch_interval = 0.1,
 		max_drop_level = 50,
 		groupcaps = {
 			crumbly = {times={[1]=1.00}, uses=50, maxlevel=1000},
