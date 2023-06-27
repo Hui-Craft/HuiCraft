@@ -20,7 +20,7 @@ minetest.register_decoration({
     fill_ratio = 0.01,
     biomes = {"plains"},
     y_max = 200,
-    y_min = 1,
+    y_min = -10,
     decoration = "plants:grass",
 })
 
@@ -32,7 +32,7 @@ minetest.register_decoration({
     fill_ratio = 0.001,
     biomes = {"plains"},
     y_max = 200,
-    y_min = 1,
+    y_min = -10,
     schematic = minetest.get_modpath("biomes") .. "/schems/tree.mts",
     flags = "place_center_x, place_center_z",
     rotation = "random",
