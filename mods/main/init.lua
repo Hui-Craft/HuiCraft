@@ -23,7 +23,7 @@ minetest.override_item("", {
 			stone = {times={[2]=3.00, [3]=0.70}, uses=1, maxlevel=3},
 			crumbly = {times={[2]=1.00, [3]=0.70}, uses=50},
 			snappy = {times={[3]=0.40}, uses=1, maxlevel=1},
-			oddly_breakable_by_hand = {times={[1]=3.50,[2]=2.00,[3]=0.70}, uses=5. maxlevel=1000}
+			oddly_breakable_by_hand = {times={[1]=3.50,[2]=2.00,[3]=0.70}, uses=50, maxlevel=1000}
 		},
 		damage_groups = {fleshy=1, snappy=1, crumbly=1, stone=1, oddly_breakable_by_hand=1000},
 	}
