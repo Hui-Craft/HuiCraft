@@ -19,6 +19,7 @@
 
 ## Beta versions
 - [ ] Tools
+    - [ ] Sticks
     - [ ] Axe
         - [ ] Wooden
         - [ ] Stone
