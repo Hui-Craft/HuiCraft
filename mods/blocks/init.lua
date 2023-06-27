@@ -8,6 +8,7 @@ hui._internal.loadfile("blocks", "blocks/stone")
 -- Trees
 hui._internal.loadfile("blocks", "blocks/oak_log")
 hui._internal.loadfile("blocks", "blocks/oak_leaf")
+hui._internal.loadfile("blocks", "blocks/oak_plank")
 
 -- Finish
 hui._internal.log("blocks", "Blocks loaded!")
