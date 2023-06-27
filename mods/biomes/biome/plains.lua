@@ -1,13 +1,13 @@
 -- Biome
 minetest.register_biome({
     name = "plains",
-    node_top = "blocks:dirt",
+    node_top = "blocks:grass",
     depth_top = 1,
-    node_filler = "default:grass",
+    node_filler = "default:dirt",
     node_stone = "default:stone",
     depth_filler = 6,
     y_max = 1000,
-    y_min = -3,
+    y_min = -10,
     heat_point = 20,
     humidity_point = 10,
 })
