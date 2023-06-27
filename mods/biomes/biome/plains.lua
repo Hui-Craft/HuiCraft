@@ -1,9 +1,9 @@
 -- Biome
 minetest.register_biome({
     name = "plains",
-    node_top = "blocks:grass",
+    node_top = "blocks:dirt",
     depth_top = 1,
-    node_filler = "default:dirt",
+    node_filler = "default:grass",
     node_stone = "default:stone",
     depth_filler = 6,
     y_max = 1000,
@@ -29,7 +29,7 @@ minetest.register_decoration({
     deco_type = "schematic",
     place_on = {"blocks:grass"},
     sidelen = 16,
-    fill_ratio = 0.0001,
+    fill_ratio = 0.001,
     biomes = {"plains"},
     y_max = 200,
     y_min = 1,
