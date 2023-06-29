@@ -12,4 +12,5 @@ minetest.register_node("blocks:oak_slab", {
         fixed = {
             {-0.5, -0.5, -0.5, 0.5, 0, 0.5},
         },
+   }
 })
