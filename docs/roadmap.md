@@ -1,73 +1,28 @@
 # Roadmap
 ## Alpha versions
-- [ ] Biomes
+### Alhpha 1
+- [ ] Crafting
+    - [ ] Sticks
+    - [ ] Planks
+- [ ] Items
+    - [ ] Sticks
+- [ ] Tools
+    - [ ] Wooden axe
+    - [ ] Wooden pickaxe
+- [x] Biomes
     - [x] Plains
-    - [ ] Forest
-        - [ ] Oak forest
-        - [ ] Birch forest
-        - [ ] Dark oak forest
-    - [ ] Sea
-    - [ ] Desert
+
+### Alpha 2
+- [ ] Blocks
+    - [ ] Cobblestone
+- [ ] Tools
+    - [ ] Wooden pickaxe
+- [ ] Biomes
+    - [ ] Oak forest
 - [ ] Decoration
-    - [ ] Trees
-    - [x] Grass
     - [ ] Flowers
+
+### Alpha 3
 - [ ] Ores
     - [ ] Coal ore
     - [ ] Iron ore
-    - [ ] Diamond ore
-
-## Beta versions
-- [ ] Tools
-    - [ ] Sticks
-    - [ ] Axe
-        - [ ] Wooden
-        - [ ] Stone
-        - [ ] Iron
-        - [ ] Diamond
-    - [ ] Pickaxe
-        - [ ] Wooden
-        - [ ] Stone
-        - [ ] Iron
-        - [ ] Diamond
-    - [ ] Shovel
-        - [ ] Wooden
-        - [ ] Stone
-        - [ ] Iron
-        - [ ] Diamond
-- [ ] Features
-    - [ ] Crafting
-        - [ ] Add crafting table
-        - [ ] Add recipie system
-    - [ ] Smelting
-        - [ ] Add furnace
-        - [ ] Add fuel
-- [ ] Recipies
-    - [ ] Planks
-    - [ ] Sticks
-    - [ ] Axes
-
-## Releases
-### Release 1.0.0
-- [ ] Commands
-    - [ ] /give
-    - [ ] /kill
-    - [ ] /tp
-    - [ ] /summon
-
-### Release 1.1.0
-- [ ] Mobs
-    - [ ] Simple mob
-    - [ ] Pig
-    - [ ] Cow
-    - [ ] Sheep
-- [ ] Food
-    - [ ] Meat
-    - [ ] Hunger bar
-    - [ ] Hunger
-    - [ ] Eating
-
-### Release 1.2.0
-- [ ] Beds
-    - [ ] Bed placing (2 blocks)
-    - [ ] Sleeping
