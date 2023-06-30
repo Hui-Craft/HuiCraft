@@ -6,7 +6,7 @@ minetest.register_tool("tools:wooden_pickaxe", {
 		max_drop_level = 50,
 		groupcaps = {
 			crumbly = {times={[1]=3.00}, uses=1, maxlevel=10},
-			cracky = {times={[1]=10.00,[2]=25.00,[3]=50}, uses=1, maxlevel=10},
+			cracky = {times={[1]=10.00,[2]=25.00,[3]=25}, uses=5, maxlevel=10},
 			snappy = {times={[1]=0.50}, uses=1, maxlevel=10},
 			oddly_breakable_by_hand = {times={[1]=2.50}, uses=1, maxlevel=10},
 			choppy = {times={[1]=5.50}, uses=1, maxlevel=10}
