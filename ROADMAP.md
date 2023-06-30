@@ -1,11 +1,11 @@
 # Roadmap
 ## Alpha versions
 ### Alhpha 1
-- [ ] Crafting
-    - [ ] Sticks
-    - [ ] Planks
-- [ ] Items
-    - [ ] Sticks
+- [x] Crafting
+    - [x] Sticks
+    - [x] Planks
+- [x] Items
+    - [x] Sticks
 - [ ] Tools
     - [ ] Wooden axe
     - [ ] Wooden pickaxe
