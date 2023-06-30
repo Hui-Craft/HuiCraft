@@ -12,6 +12,6 @@ minetest.register_craft({
     type = "shapeless",
     output = "blocks:oak_plank",
     recipe = {
-        {"blocks:oak_log"}
+        "blocks:oak_log"
     }
 })
