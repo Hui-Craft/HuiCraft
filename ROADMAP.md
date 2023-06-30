@@ -8,7 +8,7 @@
     - [x] Sticks
 - [ ] Tools
     - [ ] Wooden axe
-    - [ ] Wooden pickaxe
+    - [x] Wooden pickaxe
 - [x] Biomes
     - [x] Plains
 
