@@ -6,7 +6,7 @@ minetest.register_alias("stick", "items:stick")
 
 minetest.register_craft({
     type = "shaped",
-    output = "items:stick",
+    output = "items:stick 2",
     recipe = {
         {"blocks:oak_plank"},
         {"blocks:oak_plank"}
