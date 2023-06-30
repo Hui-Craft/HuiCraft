@@ -7,3 +7,4 @@ minetest.register_node("blocks:oak_leaf", {
     drawtype = "glasslike",
     groups = {oddly_breakable_by_hand=1}
 })
+minetest.register_alias("oak_leaf", "blocks:oak_leaf")

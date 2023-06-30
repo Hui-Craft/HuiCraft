@@ -14,3 +14,5 @@ minetest.register_node("blocks:oak_slab", {
         },
    }
 })
+
+minetest.register_alias("oak_slab", "blocks:oak_slab")

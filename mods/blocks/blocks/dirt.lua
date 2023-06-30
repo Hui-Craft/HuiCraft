@@ -6,3 +6,4 @@ minetest.register_node("blocks:dirt", {
     is_ground_content = true,
     groups = {crumbly=1}
 })
+minetest.register_alias("dirt", "blocks:dirt")

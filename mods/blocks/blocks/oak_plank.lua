@@ -6,3 +6,4 @@ minetest.register_node("blocks:oak_plank", {
     is_ground_content = true,
     groups = {choppy=1}
 })
+minetest.register_alias("oak_plank", "blocks:oak_plank")

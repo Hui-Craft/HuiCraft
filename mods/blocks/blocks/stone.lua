@@ -6,3 +6,4 @@ minetest.register_node("blocks:stone", {
     is_ground_content = false,
     groups = {cracky=3}
 })
+minetest.register_alias("stone", "blocks:stone")
