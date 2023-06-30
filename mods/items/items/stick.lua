@@ -1,6 +1,6 @@
 minetest.register_craftitem("items:stick", {
     description = "Stick",
-    inventory_image = "item_sticks.png"
+    inventory_image = "item_stick.png"
 })
 minetest.register_alias("stick", "items:stick")
 

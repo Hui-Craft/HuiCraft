@@ -10,7 +10,7 @@ minetest.register_alias("oak_log", "blocks:oak_log")
 
 minetest.register_craft({
     type = "shapeless",
-    output = "blocks:oak_plank",
+    output = "blocks:oak_plank 4",
     recipe = {
         "blocks:oak_log"
     }
