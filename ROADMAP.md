@@ -16,7 +16,8 @@
 - [ ] Blocks
     - [ ] Cobblestone
 - [ ] Tools
-    - [ ] Wooden pickaxe
+    - [ ] Stone pickaxe
+    - [ ] Stone axe
 - [ ] Biomes
     - [ ] Oak forest
 - [ ] Decoration
@@ -26,3 +27,10 @@
 - [ ] Ores
     - [ ] Coal ore
     - [ ] Iron ore
+- [ ] Items
+    - [ ] Iron ingot
+- [ ] Smelting
+    - [ ] Iron ore -> ingot
+- [ ] Tools
+    - [ ] Iron axe
+    - [ ] Iron pickaxe
