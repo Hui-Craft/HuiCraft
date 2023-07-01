@@ -30,7 +30,7 @@ minetest.register_craft({
     type = "shaped",
     output = "tools:wooden_axe",
     recipe = {
-        {"blocks:oak_plank", "blocks:oak_plank", ""},
+        {"", "blocks:oak_plank", "blocks:oak_plank"},
         {"", "items:stick", "blocks:oak_plank"},
         {"", "items:stick", ""}
     }
