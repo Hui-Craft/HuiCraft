@@ -15,9 +15,12 @@
 ### Alpha 2
 - [ ] Blocks
     - [ ] Cobblestone
+    - [X] Glass
+    - [X] Oak Stairs
 - [ ] Tools
     - [ ] Stone pickaxe
     - [ ] Stone axe
+    - [X] retexture Wood Pickaxe
 - [ ] Biomes
     - [ ] Oak forest
 - [ ] Decoration
