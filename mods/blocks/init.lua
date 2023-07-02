@@ -15,5 +15,8 @@ hui._internal.loadfile("blocks", "blocks/oak_plank")
 -- Light
 hui._internal.loadfile("blocks", "blocks/torch")
 
+-- Ores
+hui._internal.loadfile("blocks", "blocks/coal_ore")
+
 -- Finish
 hui._internal.log("blocks", "Blocks loaded!")
