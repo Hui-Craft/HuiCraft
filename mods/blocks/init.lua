@@ -12,5 +12,8 @@ hui._internal.loadfile("blocks", "blocks/oak_log")
 hui._internal.loadfile("blocks", "blocks/oak_leaf")
 hui._internal.loadfile("blocks", "blocks/oak_plank")
 
+-- Light
+hui._internal.loadfile("blocks", "blocks/torch")
+
 -- Finish
 hui._internal.log("blocks", "Blocks loaded!")
