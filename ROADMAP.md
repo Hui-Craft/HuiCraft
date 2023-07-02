@@ -6,8 +6,8 @@
     - [x] Planks
 - [x] Items
     - [x] Sticks
-- [ ] Tools
-    - [ ] Wooden axe
+- [x] Tools
+    - [x] Wooden axe
     - [x] Wooden pickaxe
 - [x] Biomes
     - [x] Plains
@@ -15,9 +15,13 @@
 ### Alpha 2
 - [ ] Blocks
     - [ ] Cobblestone
+    - [ ] Glass
+    - [ ] Oak Stairs
+    - [ ] Sand
 - [ ] Tools
     - [ ] Stone pickaxe
     - [ ] Stone axe
+    - [X] retexture Wood Pickaxe
 - [ ] Biomes
     - [ ] Oak forest
 - [ ] Decoration
@@ -31,6 +35,10 @@
     - [ ] Iron ingot
 - [ ] Smelting
     - [ ] Iron ore -> ingot
+    - [ ] sand -> glass
 - [ ] Tools
     - [ ] Iron axe
     - [ ] Iron pickaxe
+- [ ] Blocks
+    - [ ] Furnace
+    - [ ] torch

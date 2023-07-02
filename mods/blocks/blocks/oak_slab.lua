@@ -15,4 +15,12 @@ minetest.register_node("blocks:oak_slab", {
    }
 })
 
+minetest.register_craft({
+    type = "shaped",
+    output = "blocks:oak_slab 3",
+    recipe = {
+        {"blocks:oak_plank", "blocks:oak_plank", "blocks:oak_plank"}
+    }
+})
+
 minetest.register_alias("oak_slab", "blocks:oak_slab")
