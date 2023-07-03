@@ -15,28 +15,19 @@ minetest.register_node("blocks:coal_ore", {
 })
 
 minetest.register_ore({
-    ore_type = "scatter",
     ore = "blocks:coal_ore",
 
-    ore_type       = "vein",
+    ore_type       = "scatter",
+    -- ore_type = "vein",
 
     wherein        = "blocks:stone",
-	clust_scarcity = 50 * 50 * 50,
-	clust_num_ores = 5,
-	clust_size     = 3,
+	clust_scarcity = 10*10*10,
+	clust_num_ores = 10,
+	clust_size     = 25,
 	y_max          = 1000,
 	y_min          = -31000,
 
-    noise_params = {
-        offset = 0,
-        scale = 1,
-        spread = {x = 10, y = 2, z = 50},
-        seed = 23,
-        octaves = 3,
-        persistence = 0.1
-    },
-
-    random_factor = 5000,
+    -- random_factor = 1.0,
 })
 
 minetest.register_alias("coal_ore", "blocks:coal_ore")
