@@ -22,14 +22,14 @@
     - [ ] Stone pickaxe
     - [ ] Stone axe
     - [X] retexture Wood Pickaxe
-- [ ] Biomes
-    - [ ] Oak forest
+- [x] Biomes
+    - [x] Oak forest
 - [ ] Decoration
     - [ ] Flowers
 
 ### Alpha 3
 - [ ] Ores
-    - [ ] Coal ore
+    - [x] Coal ore
     - [ ] Iron ore
 - [ ] Items
     - [ ] Iron ingot
