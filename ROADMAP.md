@@ -13,6 +13,14 @@
     - [x] Plains
 
 ### Alpha 2
+- [x] Biomes
+    - [x] Oak forest
+- [x] Ores
+    - [x] Coal ore
+- [x] Items
+    - [x] Torch
+
+### Alpha 3
 - [ ] Blocks
     - [ ] Cobblestone
     - [ ] Glass
@@ -22,14 +30,11 @@
     - [ ] Stone pickaxe
     - [ ] Stone axe
     - [X] retexture Wood Pickaxe
-- [x] Biomes
-    - [x] Oak forest
 - [ ] Decoration
     - [ ] Flowers
 
-### Alpha 3
+### Alpha 4wwwwwwwww
 - [ ] Ores
-    - [x] Coal ore
     - [ ] Iron ore
 - [ ] Items
     - [ ] Iron ingot
