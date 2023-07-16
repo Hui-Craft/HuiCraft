@@ -7,7 +7,7 @@ minetest.register_biome({
     node_stone = "default:stone",
     depth_filler = 6,
     y_max = 1000,
-    y_min = -10,
+    y_min = -100,
     heat_point = 25,
     humidity_point = 5,
 })
@@ -21,7 +21,7 @@ minetest.register_decoration({
     biomes = {"plains"},
     y_max = 200,
     y_min = -10,
-    decoration = "plants:grass",
+    decoration = "plants:grass",    
 })
 
 -- Trees
