@@ -22,9 +22,8 @@
 
 ### Alpha 3
 - [ ] Blocks
-    - [ ] Cobblestone
+    - [X] Cobblestone
     - [ ] Glass
-    - [ ] Oak Stairs
     - [ ] Sand
 - [ ] Tools
     - [ ] Stone pickaxe
