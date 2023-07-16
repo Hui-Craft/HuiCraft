@@ -8,8 +8,8 @@ minetest.register_biome({
     depth_filler = 6,
     y_max = 1000,
     y_min = -10,
-    heat_point = 5,
-    humidity_point = 25,
+    heat_point = 25,
+    humidity_point = 5,
 })
 
 -- Decoration
@@ -27,9 +27,9 @@ minetest.register_decoration({
 -- Trees
 minetest.register_decoration({
     deco_type = "schematic",
-    place_on = {"blocks:grass"},
+    place_on = {"blocks:dirt"},
     sidelen = 16,
-    fill_ratio = 0.1,
+    fill_ratio = 0.025,
     biomes = {"oak_forest"},
     y_max = 200,
     y_min = -10,
