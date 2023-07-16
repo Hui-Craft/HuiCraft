@@ -1,7 +1,7 @@
 -- Biome
 minetest.register_biome({
     name = "oak_forest",
-    node_top = "blocks:grass",
+    node_top = "blocks:dirt",
     depth_top = 1,
     node_filler = "default:dirt",
     node_stone = "default:stone",
